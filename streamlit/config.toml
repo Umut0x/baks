@@ -1,0 +1,4 @@
+[server]
+headless = true
+address = "2.56.109.193"
+port = 5000
